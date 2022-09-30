@@ -1,0 +1,14 @@
+Package: facetteer
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jake", "Riley", , "rjake@sas.upenn.edu", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+URL: https://github.com/rjake/facetteer
+BugReports: https://github.com/rjake/facetteer/issues
+Suggests: 
+    covr
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
